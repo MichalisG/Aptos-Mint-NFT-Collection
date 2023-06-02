@@ -1,0 +1,11 @@
+{
+  "name": "aptos-mint-nft-collection",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "aptos": "^1.4.0"
+  },
+  "scripts": {
+    "create-new-collection": "node src/create-new-collection.js"
+  }
+}
